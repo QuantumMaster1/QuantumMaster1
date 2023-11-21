@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning CustomTkinter and Ursina
 - 💞️ I’m looking to collaborate on A database project
-- 📫 How to reach me throughj github
 
 <!---
 QuantumMaster1/QuantumMaster1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
